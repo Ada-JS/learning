@@ -4,4 +4,4 @@ now I want to add something here too
 
 line from git
 
-now lets see if it works
+now lets see how it works 
